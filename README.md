@@ -10,7 +10,7 @@ Sistema de linha de comando em Python para cálculos de saúde e bem-estar, dese
 
 ---
 
-## 📑 Sumário
+## Sumário
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Funcionalidades](#-funcionalidades)
@@ -25,11 +25,11 @@ Sistema de linha de comando em Python para cálculos de saúde e bem-estar, dese
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O **Calculadora de Saúde** é uma aplicação de terminal que oferece um menu interativo com cálculos relacionados à saúde do usuário. O objetivo deste exercício foi identificar, corrigir e documentar inconsistências lógicas e erros de execução presentes no código original, garantindo que o programa funcione corretamente do início ao fim.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 | Funcionalidade | Descrição |
 |---|---|
@@ -212,7 +212,7 @@ cd gqs-calculadora-saude-py
 python calculadora_saude.py
 ```
 
-> 💡 Em alguns sistemas operacionais, pode ser necessário usar `python3` em vez de `python`.
+>  Em alguns sistemas operacionais, pode ser necessário usar `python3` em vez de `python`.
 
 Ao executar, o menu abaixo será exibido no terminal:
 
