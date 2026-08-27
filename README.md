@@ -111,5 +111,5 @@ gqs-calculadora-saude-py/
 
 ##  Autor
 
-### Nome: Erick Souza Miranda Araujo
-### RA: 325130051
+#### Nome: Erick Souza Miranda Araujo
+#### RA: 325130051
