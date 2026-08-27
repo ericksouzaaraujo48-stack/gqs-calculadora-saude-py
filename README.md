@@ -52,7 +52,7 @@ Durante os testes do código original, foram identificados **7 bugs**, cobrindo 
 | 6 | `main()` | As comparações `if opcao == 1`, `== 2` etc. nunca eram verdadeiras, pois `opcao` era `string` comparada a inteiros. | Corrigido junto ao Bug 5: com `opcao` como inteiro, as comparações passaram a funcionar corretamente. |
 | 7 | `main()` (opção "Sair") | Ausência do comando `break`, fazendo o programa entrar em loop infinito mesmo após o usuário escolher encerrar. | Adicionado `break` ao final do bloco da opção 4, garantindo o encerramento correto do `while True`. |
 
-## 🧩 Detalhamento das Correções (Código)
+## Detalhamento das Correções (Código)
 
 Abaixo estão os trechos de código **antes** e **depois** de cada correção.
 
